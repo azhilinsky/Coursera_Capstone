@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Ward_center_addresses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 69572, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.427312530611047, 43.441835163545484 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 111255, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.515755447116717, 43.505337228267265 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 117604, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.498536114805589, 43.488923266092677 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 125587, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.551863111778616, 43.47046663191643 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 135014, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.562541022569775, 43.447024641433202 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 135276, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.563111782956653, 43.492487021274911 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 155606, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.59171462533682, 43.467528057183586 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 163110, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.428959390404231, 43.412795754681113 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 167455, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.487783823610371, 43.415237594949907 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 191564, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.456766909164799, 43.467506547756052 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 202820, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.519327565060138, 43.437072442942764 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 202849, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.484575829313883, 43.457671642391894 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 203577, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.544895230213001, 43.425385802870046 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 207415, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.488555923647439, 43.44130887643189 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 211698, "Municipali": "Waterloo", "Settlement": "Waterloo" }, "geometry": { "type": "Point", "coordinates": [ -80.523012213950395, 43.466364549615307 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 223130, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.492180298229414, 43.384158650969439 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 227194, "Municipali": "Kitchener", "Settlement": "Kitchener" }, "geometry": { "type": "Point", "coordinates": [ -80.431752049336865, 43.38286678439038 ] } }
+]
+}
